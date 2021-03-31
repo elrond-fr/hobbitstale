@@ -9,7 +9,7 @@ topnav_title: hobbit's tale
 site_title: hobbit's tale a Jekyll website
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Elrond contributors
+company_name: Elrond French contributors
 # this appears in the footer
 
 github_editme_path: elrond-fr/hobbitstale/blob/gh-pages/
@@ -71,7 +71,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      comments: true
+      comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
       sidebar: home_sidebar
@@ -100,6 +100,7 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
+- efr_sidebar
 - home_sidebar
 - mydoc_sidebar
 - product1_sidebar
