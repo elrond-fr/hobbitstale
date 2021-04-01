@@ -25,15 +25,61 @@
     acronym: "DLT"
     def: >
       A distributed ledger technology is simply a decentralized database managed by multiple participants. It records transaction history across nodes in a decentralized manner. Each node validates and records transactions simultaneously. Each record has a unique time stamp and must be cryptographically signed to ensure the security and incorruptibility of the network.
+  
   fr:
     term: "Technologies de registres distribués"
     def: >
       Une technologie de registre distribué est simplement une base de données décentralisée gérée par plusieurs participants. Elle enregistre l’historique des transactions sur des nœuds de manière décentralisée. Chaque nœud valide et enregistre les transactions simultanément. Les enregistrements ont chacun un horodatage unique et doivent faire l’objet d’une signature cryptographique, gage de la sécurité et de l’incorruptibilité du réseau.
 
 
-- slug: stake
+- slug: staking
 
   en:
-    term: "Stake"
+    term: "Staking"
     def: >
-      action de reserver
+      Staking is the process of holding funds in a crypto [wallet](wallet) to support the operations
+       of a blockchain network. Basically, it involves locking up one's crypto assets to receive rewards.
+  fr:
+    term: "Staking"
+    def: >
+      Le staking est le processus qui consiste à détenir des fonds dans un wallet crypto pour soutenir
+       les opérations du réseau d'une blockchain. Fondamentalement, il consiste à verrouiller ses crypto-actifs
+        pour recevoir des récompenses.
+
+
+- slug: pos
+  
+  en:
+    term: "Proof of Stake"
+    acronym: "PoS"
+    def: >
+      Proof-of-stake (PoS) is an alternative consensus algorithm to Bitcoin’s proof-of-work (PoW).
+       Unlike mining, which requires massive electrical power to validate transactions, staking is a
+        more eco-friendly process.
+
+  fr:
+    term: "Preuve d'enjeu"
+    def: >
+      La preuve d'enjeu (PoS) est un algorithme de consensus alternatif à la preuve de travail (PoW)
+       du bitcoin. Contrairement au minage, qui nécessite une énergie électrique massive pour valider
+        les transactions, le jalonnement est un processus plus écologique.
+
+
+- slug: wallet
+
+  en:
+    term: "Wallet"
+    def: >
+      A wallet, or digital wallet, is a software or hardware application that stores private keys and allows
+       users to interact with the blockchain. Cryptocurrency wallets are classified into 
+       two main categories: hot wallets, and cold wallets. 
+       Wallets can be used to send and receive coins, as well as review balances.
+
+  fr:
+    term: "portefeuille"
+    def: >
+      Un wallet, ou portefeuille numérique, est une application logicielle ou matérielle qui stocke les clés privées
+       et permet aux utilisateurs d'interagir avec la blockchain. Les portefeuilles de crypto-monnaies sont classés
+        en deux grandes catégories : les portefeuilles chauds et les portefeuilles froids. Les portefeuilles peuvent
+         être utilisés pour envoyer et recevoir des pièces, ainsi que pour consulter les soldes.
+
