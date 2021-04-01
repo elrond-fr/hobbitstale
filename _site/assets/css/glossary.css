@@ -9,7 +9,7 @@ body { background-attachment: fixed; overflow: auto; overflow-x: hidden; width: 
   .button-ltr { margin: 25px 90px 10px 10px; float: right; }
   .button-rtl { margin: 25px 90px 10px 10px; float: right; }
   a.button small { display: block; }
-  .sticky-home, .sticky-ltr, .sticky-rtl { position: sticky; z-index: 0; top: 0; overflow: scroll; overflow-x: hidden; height: 95%; background-color: grey; color: white; text-align: center; vertical-align: middle; align-contents: center; padding-top: 30px; padding-bottom: 30px; bottom: 30px; }
+  .sticky-home, .sticky-ltr, .sticky-rtl { position: sticky; z-index: 0; top: 0; overflow: scroll; overflow-x: hidden; height: 95%; background-color: black; color: white; text-align: center; vertical-align: middle; align-contents: center; padding-top: 30px; padding-bottom: 30px; bottom: 30px; }
   .sticky-home { float: right; margin-right: 1cm; right: 0; width: 20%; }
   .sticky-ltr { float: right; margin-right: 1cm; right: 0; width: 6%; }
   .sticky-rtl { float: left; margin-left: 1cm; left: 0; width: 6%; }
@@ -29,7 +29,7 @@ body { background-attachment: fixed; overflow: auto; overflow-x: hidden; width: 
   .button-rtl { float: left; margin: 10px 10px 10px 30px; margin-right: 1.5cm; }
   a.button small { display: block; }
   .sticky-home { display: none; margin-right: 1cm; }
-  .sticky-ltr, .sticky-rtl { position: sticky; z-index: 0; top: 8; overflow: scroll; overflow-x: hidden; height: 110%; width: 12%; background-color: grey; color: white; text-align: center; vertical-align: middle; padding-bottom: 40px; padding-top: 30px; }
+  .sticky-ltr, .sticky-rtl { position: sticky; z-index: 0; top: 8; overflow: scroll; overflow-x: hidden; height: 110%; width: 12%; background-color: black; color: white; text-align: center; vertical-align: middle; padding-bottom: 40px; padding-top: 30px; }
   .sticky-ltr { float: right; margin-right: 0cm; right: 0; bottom: 30px; }
   .sticky-rtl { float: left; margin-left: .5cm; left: 0; bottom: 30px; }
   .letter_links { line-height: 60px; margin: 10px 20% 10px 20%; font-size: 35px; color: white; text-decoration: none; }

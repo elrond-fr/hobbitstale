@@ -11,16 +11,16 @@ body {
     img.logo {
         float: left;
         vertical-align: middle;
-        width: 15%;
+        width: 25%;
     }
 
     .row {
-        background: grey;
+        background: black;
         margin-right: 1cm;
         margin-left: 1cm;
     }
 
-    .left {
+    .left {-
         float: left;
         width: 100%;
     }
@@ -53,7 +53,7 @@ body {
     }  
 
     .row {
-        background: grey;
+        background: darkgrey;
         width: 100%;
         margin-left: .5cm;
         margin-right: 1cm;
