@@ -1,0 +1,25 @@
+- slug: blockchain
+  
+  fr:
+    term: "blockchaîne"
+    def: >
+      Une blockchain, ou chaîne de blocs1,2, est une technologie de stockage et de transmission d'informations sans organe de contrôle. 
+      Techniquement, il s'agit d'une base de données distribuée dont les informations envoyées par les utilisateurs et les liens internes
+       à la base sont vérifiés et groupés à intervalles de temps réguliers en blocs, formant ainsi une chaîne3. L'ensemble est sécurisé
+        par cryptographie. Par extension, une chaîne de blocs est une base de données distribuée qui gère une liste d'enregistrements protégés
+         contre la falsification ou la modification par les nœuds de stockage ; c'est donc un registre distribué et sécurisé de toutes les transactions effectuées depuis le démarrage du système réparti.
+
+
+- slug: dlt
+
+  fr:
+    term: "technologies de registres distribués"
+    def: >
+      Une technologie de registre distribué est simplement une base de données décentralisée gérée par plusieurs participants. Elle enregistre l’historique des transactions sur des nœuds de manière décentralisée. Chaque nœud valide et enregistre les transactions simultanément. Les enregistrements ont chacun un horodatage unique et doivent faire l’objet d’une signature cryptographique, gage de la sécurité et de l’incorruptibilité du réseau.
+
+- slug: stake
+
+  fr:
+    term: "Stake"
+    def: >
+      action de reserver

@@ -1,11 +1,23 @@
-jekyll_platform: "Jekyll is a static site generator that builds sites using most modern web technologies."
+- slug: blockchain
 
-fractious: "Like a little mischevious child, full of annoying and constant trouble."
+  en:
+    term: "Blockchain"
+    def: >
+      A blockchain is a growing list of records, called blocks, that are linked using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree). By design, a blockchain is resistant to modification of its data. This is because once recorded, the data in any given block cannot be altered retroactively without alteration of all subsequent blocks.
 
-gratuitous: "Something that is unwarranted and uncouth, like the social equivalent of a flagrant foul."
+  
 
-haughty: "Proud and flaunting it. Holding your head high up like a snooty, too-good-for-everything rich person."
+- slug: dlt
+  
+  en:
+    term: "Distributed ledger technology"
+    acronym: "DLT"
+    def: >
+      A distributed ledger technology is simply a decentralized database managed by multiple participants. It records transaction history across nodes in a decentralized manner. Each node validates and records transactions simultaneously. Each record has a unique time stamp and must be cryptographically signed to ensure the security and incorruptibility of the network.
+  
+- slug: stake
 
-impertinent: "Someone acting rude and insensitive to others."
-
-intrepid: "Brave and courageous especially in a difficult, dangerous situation."
+  en:
+    term: "Stake"
+    def: >
+      action de reserver
