@@ -76,10 +76,33 @@
        Wallets can be used to send and receive coins, as well as review balances.
 
   fr:
-    term: "portefeuille"
+    term: "Portefeuille"
     def: >
       Un wallet, ou portefeuille numérique, est une application logicielle ou matérielle qui stocke les clés privées
        et permet aux utilisateurs d'interagir avec la blockchain. Les portefeuilles de crypto-monnaies sont classés
         en deux grandes catégories : les portefeuilles chauds et les portefeuilles froids. Les portefeuilles peuvent
          être utilisés pour envoyer et recevoir des pièces, ainsi que pour consulter les soldes.
 
+- slug: elrond
+
+  en:
+    term: "Elrond"
+    def: >
+      Elrond is the internet-scale blockchain, designed from scratch to bring a 1000-fold cumulative improvement in 
+      throughput and execution speed. To achieve this, Elrond introduces two key innovations: 
+      a novel Adaptive State Sharding mechanism, and a Secure [Proof of Stake (PoS)](pos) algorithm, 
+      enabling linear scalability with a fast, efficient, and secure consensus mechanism. 
+      Thus, Elrond can process upwards of 15,000 transactions per second (TPS), with 6-second latency, 
+      and negligible cost, attempting to become the backbone of a permissionless, borderless, globally accessible
+       internet economy.
+
+  fr:
+    term: "Elrond"
+    def: >
+      Elrond est la [blockchaîne](blockchain) à l'échelle de l'Internet, conçue à partir de zéro pour améliorer
+       de 1000 fois le débit et la vitesse d'exécution. Pour y parvenir, Elrond introduit deux innovations clés :
+        un mécanisme novateur de partage d'état adaptatif (Adaptive State Sharding) et un algorithme de [preuve d'enjeu (PoS)](pos)
+         sécurisé, permettant une évolutivité linéaire avec un mécanisme de consensus rapide, efficace et sécurisé. 
+         Ainsi, Elrond peut traiter jusqu'à 15 000 transactions par seconde (TPS), avec une latence de 6 secondes 
+         et un coût négligeable, et tenter de devenir l'épine dorsale d'une économie Internet sans autorisation, 
+         sans frontière et accessible dans le monde entier.

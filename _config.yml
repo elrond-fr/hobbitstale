@@ -18,13 +18,13 @@ languages:
     title: Glossary
     blurb: >
       `hobbit's tale ` is an open source glossary of terms used in elrond network that is
-      available online and also as a library in both [hobbitstale](https://github.com/elrond-fr/hobbitstale/).  By adding glossary
+      available online and also as a library in both [hobbit's tale](https://github.com/elrond-fr/hobbitstale/).  By adding glossary
       keys to this's metadata, contributors can indicate the definition of terms often use in Elrond context and their equivalent in other languages.
   - key: fr
     name: Français
     title: Glossaire
     blurb: >
       `hobbit's tale` est un glossaire open source des termes utilisés dans le contexte d'Elrond qui est disponible
-       en ligne et aussi comme une bibliothèque dans les deux [hobbitstale](https://github.com/elrond-fr/hobbitstale/).
+       en ligne et aussi comme une bibliothèque dans les deux [hobbit's tale](https://github.com/elrond-fr/hobbitstale/).
          En ajoutant des clés de glossaire aux métadonnées de ce document, les contributeurs peuvent indiquer 
          la définition de termes souvent utilisés dans le contexte d'Elrond et leur équivalent dans d'autres langues.
