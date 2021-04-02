@@ -106,3 +106,32 @@
          Ainsi, Elrond peut traiter jusqu'à 15 000 transactions par seconde (TPS), avec une latence de 6 secondes 
          et un coût négligeable, et tenter de devenir l'épine dorsale d'une économie Internet sans autorisation, 
          sans frontière et accessible dans le monde entier.
+
+- slug: encryption
+
+  en:
+    term: "Encryption"
+    def: >
+      Encryption is the process of encoding information. This process converts the original representation of the information, 
+      known as plaintext, into an alternative form known as ciphertext. 
+      Ideally, only authorized parties can decipher a ciphertext back to plaintext and access the original information.
+
+  fr:
+    term: "Chiffrement"
+    def: >
+      Le chiffrement est le processus d'encodage des informations. Ce processus convertit la représentation originale de l'information, 
+      connue sous le nom de texte en clair, en une autre forme connue sous le nom de texte chiffré.  
+      Dans l'idéal, seules les parties autorisées peuvent déchiffrer un texte chiffré en texte en clair et accéder à l'information originale.
+
+- slug: sharding
+  
+  en:
+    term: "Sharding"
+    def: >
+      Sharding was first used in databases and is a method for distributing data across multiple machines. 
+      This makes it a scaling technique, and can be used by blockchain networks to partition states and transaction processing,
+       so that each node of the network would only need to process a fraction of all the transactions. Moreover, sharding allows for the parallel processing of transactions.
+        As long as there is a sufficient number of nodes verifying each transaction, ensuring high reliability and security,
+         then splitting a blockchain into shards will allow it to process far more transactions by means of parallelization, 
+         and thus greatly improving transaction throughput and efficiency. Moreover, sharding promises to increase the throughput of the network
+          as it expands and the number of validator grows - a property called horizontal scaling.
